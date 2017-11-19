@@ -1,5 +1,5 @@
 ---
-title: Using Github Template - Archit Rakhade
+title: Encoding and Decoding
 layout: post
 author: archit.rakhade
 permalink: /using-github-template---archit-rakhade/
